@@ -1,0 +1,935 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9383
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 46 25 Tm (Gabriel Dinescu | B2B SRE / Cloud Infrastructure CV) Tj T* ET
+BT 1 0 0 1 544.8276 25 Tm (1) Tj T* ET
+q
+1 0 0 1 52 774.8898 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 4 Tm /F2 21 Tf 25 TL (GABRIEL DINESCU) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 759.8898 cm
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Senior Site Reliability Engineer | Cloud Infrastructure Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 749.6898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL (+40 744 448 604 | gabriel.dinescu@hotmail.com | Open to B2B contracts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 726.6898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL PROFILE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 670.6898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 42.5 Tm /F1 8.5 Tf 10.2 TL -0.016936 Tw (Hands-on SRE Team Lead and Azure infrastructure engineer with 15+ years of experience across IT operations, infrastructure and) Tj T* 0 Tw (service management. Lead a five-person SRE team while delivering customer-specific Azure architecture, disaster recovery,) Tj T* (incident response, monitoring and automation. Experience includes tested recovery procedures, production failover, tag-driven) Tj T* (non-production scaling, PowerShell certificate monitoring and security-approved private access designs. Open to remote B2B) Tj T* (engagements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 647.6898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (CORE EXPERTISE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.1378 543.0898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 55.8 cm
+q
+BT 1 0 0 1 0 32.3 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Reliability & Observability) Tj /F1 8.5 Tf  T* (Application Insights | Grafana | Site24x7 |) Tj T* (Incident Triage | DR Testing | SLA) Tj T* (Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168 55.8 cm
+q
+BT 1 0 0 1 0 32.3 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Azure Architecture) Tj /F1 8.5 Tf  T* (App Service | Front Door | Application) Tj T* (Gateway / WAF | Private Endpoint |) Tj T* (Private DNS | VPN | Key Vault) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336 55.8 cm
+q
+BT 1 0 0 1 0 32.3 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Automation & Cost Management) Tj /F1 8.5 Tf  T* (PowerShell | Runbooks | Tag-driven) Tj T* (Scaling | Certificate Monitoring |) Tj T* (Terraform | Ansible | Bash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 6 cm
+q
+BT 1 0 0 1 0 32.3 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Cloud & Infrastructure) Tj /F1 8.5 Tf  T* (Red Hat OpenStack | Docker |) Tj T* (Kubernetes | Functions | Service Bus |) Tj T* (Log Analytics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 168 6 cm
+q
+BT 1 0 0 1 0 32.3 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Recovery & Networking) Tj /F1 8.5 Tf  T* (Regional Failover | Database Restore |) Tj T* (RPO / RTO Validation | VPN Monitoring |) Tj T* (Load Balancing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 336 6 cm
+q
+BT 1 0 0 1 0 32.3 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Technical Leadership) Tj /F1 8.5 Tf  T* (Team of Five | On-call Scheduling | Daily) Tj T* (Coordination | Task Allocation |) Tj T* (Cross-team Communication) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 520.0898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.1378 501.0898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (TEAM LEAD - CLOUD SRE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 64.965 0 Td (Jul 2021 - Present) Tj T* -64.965 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 490.8898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (FintechOS Romania) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 486.8898 cm
+Q
+q
+1 0 0 1 52 466.4898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Lead four SRE engineers while working alongside them on technical delivery; manage on-call rotations, daily meetings and task) Tj T* 9 0 Td (allocation, and coordinate with other departments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 445.0898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Design and implement customer-specific Azure infrastructure. Separated public and VPN-only backoffice access using dedicated) Tj T* 9 0 Td (Envoy proxies, private Application Gateway, App Service Private Endpoint and private DNS, with public access disabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 423.6898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Configure WAF in Prevention mode and implement security-approved rule adjustments and remediation requests following) Tj T* 9 0 Td (client-commissioned independent penetration testing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 392.0898 cm
+q
+BT 1 0 0 1 9 22.1 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Execute and test DR scenarios: restore database backups in an unaffected region, launch infrastructure provisioning pipelines in) Tj T* 9 0 Td (parallel, reconnect applications, update Front Door routing and configure backups in the recovered environment. Tests met) Tj T* (agreed RPO and RTO objectives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 360.4898 cm
+q
+BT 1 0 0 1 9 22.1 Tm -9 0 Td -0.041369 Tw 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Investigated production latency during an Azure regional compute incident, recommended DR based on growing customer impact) Tj T* 0 Tw 9 0 Td (and executed the client-approved failover to a standby environment; performed SRE availability checks and observed alert) Tj T* (clearance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 339.0898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Write and maintain a tag-driven runbook for scheduled non-production scale-down and opt-in scale-up, accounting for regional) Tj T* 9 0 Td (time zones and restoring capacity to application-tested SKUs. Review weekly costs and investigate deviations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 307.4898 cm
+q
+BT 1 0 0 1 9 22.1 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Migrated all customers using the Front Door solution to Azure-managed certificates. Develop PowerShell DNS-based certificate) Tj T* 9 0 Td (checks with expiry notifications below 15 days for Front Door and 30 days for internal endpoints; remediate manual setups using) Tj T* (managed certificates or Key Vault integration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 286.0898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Configure external monitoring with Site24x7 and internal monitoring with Azure metrics and Application Insights; surface relevant) Tj T* 9 0 Td (application data in Grafana. Tune response-time and error-count alerts to QA-defined standards and customer requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 264.6898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Triage alerts, resolve SRE-owned issues and route other incidents to the appropriate teams. Added Azure VPN Gateway) Tj T* 9 0 Td (metric-based alerting after intermittent connectivity failures to improve detection and customer communication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 243.2898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Own SLA reporting, execute production deployments and upgrades, and support pre-sales discussions on infrastructure,) Tj T* 9 0 Td (monitoring, security and disaster recovery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 237.2898 cm
+Q
+q
+1 0 0 1 46.1378 223.2898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SENIOR CLOUD INFRASTRUCTURE ENGINEER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 59.457 0 Td (Oct 2019 - Jul 2021) Tj T* -59.457 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 213.0898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (Temenos Romania) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 209.0898 cm
+Q
+q
+1 0 0 1 52 198.8898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Managed end-to-end Azure infrastructure and provided L3 support for platform incidents.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 187.6898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Deployed and maintained Zero Trust Network architecture using Private Link, Private Endpoints and DNS configuration.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 176.4898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Deployed and maintained App Services and Azure Functions, with Service Bus and Log Analytics integration.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 165.2898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Provisioned and supported VMs, load balancers and VPN connectivity for customers and internal consultants.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 143.8898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Acted as the infrastructure architecture point of contact for external connectivity and supported new product/service) Tj T* 9 0 Td (implementations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 137.8898 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+35 750 540 22 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 50 760 Tm
+(\05340 744 448 604 \174 gabriel\100thesreexperience\056com \174 https\072\057\057thesreexperience\056com \174 Open to B2B contracts) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 11 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 9184
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 46 25 Tm (Gabriel Dinescu | B2B SRE / Cloud Infrastructure CV) Tj T* ET
+BT 1 0 0 1 544.8276 25 Tm (2) Tj T* ET
+q
+1 0 0 1 52 785.8898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (PROFESSIONAL EXPERIENCE - CONTINUED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.1378 766.8898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (INFRASTRUCTURE ENGINEER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 54.957 0 Td (Nov 2014 - Oct 2019) Tj T* -54.957 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 756.6898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (Orange Romania SA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 752.6898 cm
+Q
+q
+1 0 0 1 52 742.4898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Operated an IaaS platform based on Red Hat OpenStack, covering infrastructure maintenance, troubleshooting and L3 support.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 731.2898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Managed Juniper SRX/QFX and NetScreen devices, routers, firewalls and BIG-IP / Alteon load balancers.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 720.0898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Performed platform deployment and configuration using Terraform and Ansible; supported Docker and Kubernetes use cases.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 708.8898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Delivered end-to-end tenant deployments, including Redis, HAProxy and Keepalived clusters.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 697.6898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Automated infrastructure backup tasks with Bash and delivered internal platform workshops and technical training.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 676.2898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Authored parameterized Terraform configurations from scratch to provision and manage virtual machines, networking resources) Tj T* 9 0 Td (and data disks; used separate workspaces and modules, and reviewed execution plans before applying infrastructure changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 670.2898 cm
+Q
+q
+1 0 0 1 52 647.2898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (EARLIER EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 46.1378 628.2898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (TECHNICAL SERVICE MANAGER - MAIL PROJECT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 89.967 0 Td (2013 - 2014) Tj T* -89.967 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 618.0898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (Orange Romania SA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 614.0898 cm
+Q
+q
+1 0 0 1 52 603.8898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Managed the production environment for the Mail Address Book internal service, including Problem and Change Management.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 592.6898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Supervised upgrades and improvement patches and supported migration of the project to a new cloud environment.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 586.6898 cm
+Q
+q
+1 0 0 1 46.1378 572.6898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (TECHNICAL SERVICE MANAGER - ORANGE MONEY PROJECT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 54.957 0 Td (Nov 2012 - Oct 2013) Tj T* -54.957 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 562.4898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (Orange Romania SA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 558.4898 cm
+Q
+q
+1 0 0 1 52 548.2898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Contributed to Capacity and Defect Management, E2E QoS measurement and product quality reporting.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 537.0898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Performed technical and functional analysis to improve service quality and supported the Disaster Recovery Plan.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 531.0898 cm
+Q
+q
+1 0 0 1 46.1378 517.0898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CHANGE MANAGER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 52.95 0 Td (Sep 2011 - Nov 2012) Tj T* -52.95 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 506.8898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (Ericsson Telecommunications Romania SRL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 502.8898 cm
+Q
+q
+1 0 0 1 52 482.4898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Performed change impact, collision and integrity analysis; coordinated communication between implementation teams and the) Tj T* 9 0 Td (customer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 471.2898 cm
+q
+BT 1 0 0 1 9 1.7 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Ran daily CAB meetings, produced job aids and reports, and coached engineers and technicians on change procedures.) Tj T* 9 0 Td ET
+Q
+Q
+q
+1 0 0 1 52 465.2898 cm
+Q
+q
+1 0 0 1 46.1378 451.2898 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 2 cm
+q
+.12549 .235294 .337255 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SENIOR CHANGE MANAGEMENT ANALYST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 365 2 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL 52.941 0 Td (Aug 2009 - Sep 2011) Tj T* -52.941 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 52 441.0898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL (Ericsson Telecommunications Romania SRL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 437.0898 cm
+Q
+q
+1 0 0 1 52 416.6898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Reviewed planned work requests, assessed execution risk and acted as a gatekeeper for activities affecting managed-service) Tj T* 9 0 Td (customers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 395.2898 cm
+q
+BT 1 0 0 1 9 11.9 Tm -9 0 Td 10.2 TL /F1 8.5 Tf .2 .2 .2 rg (\177 Coordinated planned work with customers and internal teams, maintained accurate work overviews and ensured change) Tj T* 9 0 Td (processes were followed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 389.2898 cm
+Q
+q
+1 0 0 1 52 366.2898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (ADDITIONAL EARLY CAREER EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 340.8898 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Back Office Sales Support - HP GeBOC Romania | Jan 2009 - Aug 2009) Tj /F1 8.5 Tf  T* (Supported enterprise sales activities with hardware configurations for desktops, laptops, workstations and servers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 336.8898 cm
+Q
+q
+1 0 0 1 52 316.4898 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Business Customer Care - UPC Romania | Oct 2007 - Jan 2009) Tj /F1 8.5 Tf  T* (Handled business customer internet and telephony issues and supported scheduling, reporting, training and work procedures.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 312.4898 cm
+Q
+q
+1 0 0 1 52 292.0898 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Call Center Agent - RCS) Tj (&) Tj (RDS | Mar 2007 - Oct 2007) Tj /F1 8.5 Tf  T* (Handled mass-market complaints and support requests for internet, telephony and cable services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 288.0898 cm
+Q
+q
+1 0 0 1 52 265.0898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 239.6898 cm
+q
+BT 1 0 0 1 0 11.9 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (Spiru Haret University, Bucharest) Tj /F1 8.5 Tf ( | Psychology | 2018 - 2021) Tj  T* /F2 8.5 Tf (Economical High School ") Tj (Profesia) Tj (") Tj (, Bucharest) Tj /F1 8.5 Tf ( | Accounting | 2000 - 2004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 216.6898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+BT 1 0 0 1 0 3 Tm 14 TL /F2 11 Tf .192157 .352941 .596078 rg (TRAINING & CERTIFICATIONS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 181.0898 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 22.1 Tm /F1 8.5 Tf 10.2 TL (Azure AZ-104 Training Course | Red Hat OpenStack Administration | Red Hat 7 Service Administration | Red Hat System) Tj T* (Administration II | Ansible \(internal training\) | Git \(internal training\) | ITIL V3 Foundation | ITIL V3 Continual Service Improvement |) Tj T* (SQL Basics | Virtualization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 158.0898 cm
+q
+.658824 .717647 .792157 RG
+.4 w
+n 0 -3 491.2756 17 re S
+Q
+q
+.192157 .352941 .596078 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (LANGUAGES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52 142.8898 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf .2 .2 .2 rg (English) Tj /F1 8.5 Tf ( - Advanced | ) Tj /F2 8.5 Tf (French) Tj /F1 8.5 Tf ( - Intermediate reading/writing; basic speaking) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000411 00000 n 
+0000009846 00000 n 
+0000009953 00000 n 
+0000010060 00000 n 
+0000010172 00000 n 
+0000010417 00000 n 
+0000019654 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+19762
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [13 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 13 0 R] >> >> >>
+endobj
+12 0 obj
+<< /Length 24280 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^ÿjumb   jumdc2pa  Ä  ™ 8õqc2pa   ^≤jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:774dad9c-b9da-47e6-bc59-333227488f0a   ¢jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    „cbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameggpt-5-5gversionggpt-5-5dwhenx2026-10-06T18:26:18.940720ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estartOMflength^ÿdnamenjumbf manifestcalgfsha256dhashX òµE•@cJ aˆŒ¢h	Ñã«¢¬
+≠dnhZåΩcpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:6843ef17-e7a3-4fb9-9b44-33496db07348tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:774dad9c-b9da-47e6-bc59-333227488f0a/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX Ê¿∏ıÚS B,	—3«ˆKèÿ’]8¯µ&Õiı3î¸ã¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX DØ≠v~‡ÄzæF∂ò∞¸}/ _ÆªüÛ"J4(ú˙˘hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYä0ÇÜ	*ÜHÜ˜†Çw0Çs10	`ÜHe 0ÅÜ*ÜHÜ˜	†wu0s
++Éø0010	`ÜHe  ¥HÑò·ÚãB0®ñﬁKØ_vÖ	≤8%Ñ:@~èä∞˙	 ‘èv¶áï˛20261006182625.78347Z0ÄAßÂqæ∏a˙†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" ?◊Y=◊¢Séï<xﬁ>A•˛Àπ¨…o'◊ëïg0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄQ®f)+/D„πy»WY8‰<ˆà/0ÿkUª≈€~ÔxH-Ë5ÁD5∞ﬂqèÍ;ßF-,V[ç~î3>í¥O8Ã”GõDd…#V∂C◊®‡0otπ˙ˆJ≤∑ÕÔ¥'Ö.
+¬ˆ†ÿMÊ`!=Gâ∞î“ª*Æ∞Ê-NçtòÁR‚ê≤MÉ££›Æ´˘ ∫◊•—∆b∞ûI‘%[T∞¥5>¥^∞ÚfTü9÷î¨©¥Ì∏≤aÉëgdƒdÃ^jW?êqsä∞!$mûÜ®_§k$¸·@ ∂rzâ© ¸ˇ•ı‡yå(›’‡ıäSQwË3¢4∞ö≥Dƒ∞ÍLÌπ≥A¿"Ÿ¿+Y˛≤Ü\O«mäÿµy…ç÷Õ≈∂ƒ4¿ö{]ÓØ∏U'g>;≈AÃ)j1õã®pπÁÀêR.f ΩΩ~∆? CQÈe+-·ó"n.yN|8â)ÓïÌDπpY}o^ZmÿzÑŸåòa)∞‡ΩÀòP–fY9i>4erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢=™™xé˙ˆL˙^j—@MÂTÚÆ20261005220719Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261005220719Z†20261012220718Z°"0 0	+020161007220719Z°#0!0	+0êkyù»Qkcé7óæpÊﬂ0	*ÜHÜ˜ ÇÅ ˝FÄû´9πƒg ÑÆˇ◊vsàU”8&eN˝™éô\èß0ÃﬂÔìÆƒyr£ùÕq˛eë°†N<LÆö‹ˆ“]vÊ∏¥R◊çÔï¿^ä∫Vfˆ[ÕN˘…:liÚˇKôÃ¬æÊ∞V˚˘buË™¥á)M˜‘€`J•—M“Û…Yπm◊„Ê\ÍÂ/∫^&àyrD’U‰¨∞?ÅÈZuç9J@…¬‚¯ˇº]Îh¢@˝~?c∫»ˇyÓÂJ*å†ziÊ†Ù®‰Ê™-Âóﬂ~Fˇüñp¢K )ÇY`'Ö∫‡À…ck †·ÏÔ È©¶ørI Æ»%¥t/®.=™: ƒÿC[,ˇä{öxülß=ıˇ Î›-[Wÿ(∫vÈ∫ËÈ®πç≠—:%√Âk{x	˘¨·ÒÇQéë∏u8KâûU5“zcw‡•ÇÁí⁄{cåâAémÔÌø—d¡bƒT˛®2DB◊ÏÆ∂õ\≈Ê&˙Åÿ¥Î«LÈ"%ÂÀ∏°{ß†5Ã¿Q†Ç10Ç-0Ç)0Ç†ZJ≤?–(∆˛K≥?n=„'∫0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102201415Z270102201414Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ¢PìAÊJKﬁõ¶ït&X<ÏR¸ªî2Õ√∆Pﬂ–Ωú∆npã#ó◊åÓÃ|VÓgæ˘ö¿í∞Î∫•3ˇmiêÉ/à-Ì∞K],õπ∏e$cÓ∞$`ç
+Ë¯y∆”a5[åóXü≥å\ÿ‰∆¶–C≥ß”TŸlà˜ß∏ƒÿn˝1(ﬁ	.ê'ısŸw¶’Pö ŸºÀ2≈Fπ¸¢UMÓ†õ¨hj¡?8*zÿ”]∫¥≥ÎùU)ÓÏ“7üÆ≈6©ú∞∑ﬁD*ãËPß Äy{%œŸ9ÚûEõw∫x	†¶N{@é1˝Í"háÄƒÇ!‰OZÚÛà§Kâ*~L$&©†ö…ù|ÓkbÖ"2Ó÷‹+“ﬂ÷F4v†Ç(xéæ*›‰÷j*w€tz5'¶á¡∏:SÅ™ö÷+ìØ„õ∑e“&0J•æ ÒãZ4¶°“Ör8X9ƒÏ>2Ñﬂ7y÷0”7xÊËÕíÈn+nÏ0Î28.©<“-Â £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0U=™™xé˙ˆL˙^j—@MÂTÚÆ0UˇÄ0	*ÜHÜ˜ Ç ªs¶UÑ£hPÎÒ†l◊…)Ñù>®/Ì
+ª†Î´À¡∏Ü∑0%HmÛ·Ω°M(“+e`D‹∂ç´U?◊›Ö˛ó[$,Ï≠KKÙª	˙û∞‡∞∞˝éDr¥èj›cËÎ≤÷‘«ÒÁãﬂﬂlƒ	¢˝=sX¡()¢k`i0);U¥å©§ê©p>nrƒv0iÇO%¥OUŒÈHœ_ãÕVkﬂ‹ûÜ65é¡7ïs∏Ì∂®DæˆóﬁIºè°>r'–=!|R\P©«‹©˚˜m∞*&†îﬂdÖåß=ä:1të!·ÏJﬂÖhŒa©§k23”hÊ…ø≥¸ˇïÒ◊¬eJlNG˛®`îwhAŒN(D•∆òá®5Úéf™$Ωj¡Æ kﬁt£w&eß•¬(%˝>©ÂIπˇthrGP˚tö"hÖåøÉ úŸ„m¢<\«N•v“ˇ¬™≈Æ¥¸*Bl'®¥÷9ÀôXÀ√±¸6Ë5‘À^…òòŒËÇãÌXa∫aë—©z…>X‡¸îHLtÊœ‘|≥ÚË#KË0hª'Ïπˆ	∂ÌyìÂ
+Çµ«Á.∆Ökì•AY)î∫X”oñMüQ3ë?¿∏Pœµ∫`àÈ7
+Lñü#x⁄¡ é≈ñ>l˙_ 7Vﬂ	!òíy˜¿ø„Œíß´,W=A‘â‡?cpadY&v                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ˆY |S©/Öqrß©V?πıÌ¢«~ÎÄ¥Ø(@Q¿AÃòJûπˆ·∂ÏÙıaé≠[°Àç'Û~„pˇ⁄–ıN¢Oè÷„qpB§?Ì"∏∆∑OÇ¬ÄObˆˆ9´∑K˜qıÀx∂ñ˚∆¨|a;MŒ7Ó~dW“Ù≤T¬k.QÁü/=®ÏìøÙ3±©s¯•(éJ§y˝
+,#ìZ¥q}Pe<åóï*ö
+“H	Ù#Õ≤ıánE°6)é»∞Äø=’ïÙcÅúı◊ëìü–7 iH˘àtÚìÓ
+F∫´†>¡`ËÀÈXÍ-∫ÑmD»çßbG∏´986`9⁄°±CH¬¢æ¸
+Üöñ`î
+endstream
+endobj
+13 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 12 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000020081 00001 n 
+12 2
+0000020216 00000 n 
+0000044599 00000 n 
+trailer
+<< /Size 14 /Root 3 1 R /Prev 19762 >>
+startxref
+44795
+%%EOF
